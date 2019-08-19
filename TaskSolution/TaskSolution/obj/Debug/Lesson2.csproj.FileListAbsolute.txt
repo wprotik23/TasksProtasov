@@ -1,0 +1,6 @@
+C:\Users\Andrii\Documents\Visual Studio 2015\Projects\TaskSolution\TaskSolution\bin\Debug\TaskSolution.exe.config
+C:\Users\Andrii\Documents\Visual Studio 2015\Projects\TaskSolution\TaskSolution\bin\Debug\TaskSolution.exe
+C:\Users\Andrii\Documents\Visual Studio 2015\Projects\TaskSolution\TaskSolution\bin\Debug\TaskSolution.pdb
+C:\Users\Andrii\Documents\Visual Studio 2015\Projects\TaskSolution\TaskSolution\obj\Debug\Lesson2.csprojResolveAssemblyReference.cache
+C:\Users\Andrii\Documents\Visual Studio 2015\Projects\TaskSolution\TaskSolution\obj\Debug\TaskSolution.exe
+C:\Users\Andrii\Documents\Visual Studio 2015\Projects\TaskSolution\TaskSolution\obj\Debug\TaskSolution.pdb
