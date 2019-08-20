@@ -1,5 +1,0 @@
-C:\Users\Andrii\Documents\Visual Studio 2015\Projects\TaskSolution\Lesson3\bin\Debug\Lesson3.exe.config
-C:\Users\Andrii\Documents\Visual Studio 2015\Projects\TaskSolution\Lesson3\bin\Debug\Lesson3.exe
-C:\Users\Andrii\Documents\Visual Studio 2015\Projects\TaskSolution\Lesson3\bin\Debug\Lesson3.pdb
-C:\Users\Andrii\Documents\Visual Studio 2015\Projects\TaskSolution\Lesson3\obj\Debug\Lesson3.exe
-C:\Users\Andrii\Documents\Visual Studio 2015\Projects\TaskSolution\Lesson3\obj\Debug\Lesson3.pdb
